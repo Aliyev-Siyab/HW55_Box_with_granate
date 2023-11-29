@@ -1,4 +1,4 @@
-package ait.granate.model;
+package ait.pomegranate.model;
 
 public class Seed {
     double weight;

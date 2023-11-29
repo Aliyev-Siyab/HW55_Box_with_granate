@@ -1,4 +1,4 @@
-package ait.granate.model;
+package ait.pomegranate.model;
 
 import java.util.ArrayList;
 import java.util.Iterator;

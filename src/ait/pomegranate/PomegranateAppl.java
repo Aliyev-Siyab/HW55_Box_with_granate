@@ -1,15 +1,13 @@
-package ait.granate;
+package ait.pomegranate;
 
-import ait.granate.model.Box;
-import ait.granate.model.Pomegranate;
-import ait.granate.model.Seed;
+import ait.pomegranate.model.Box;
+import ait.pomegranate.model.Pomegranate;
+import ait.pomegranate.model.Seed;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.StreamSupport;
 
 
 public class PomegranateAppl {
